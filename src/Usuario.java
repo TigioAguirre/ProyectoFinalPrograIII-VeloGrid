@@ -1,3 +1,4 @@
+//Remigio Estuvo Aqui
 public class Usuario {
     /** Definición de Atributos de Clase*/
     private int idUsuario;

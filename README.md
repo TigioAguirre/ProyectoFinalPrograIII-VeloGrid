@@ -13,7 +13,7 @@ Este repositorio contiene el código fuente y la documentación del proyecto fin
 * **Carrera:** Ingeniería de Software
 * **Asignatura:** Programación III
 * **Código de Clase:** ISWZ2102
-* **Semestre:** [Ingresa aquí el semestre, ej. 2026-1]
+* **Semestre:** [2026-20]
 
 ---
 

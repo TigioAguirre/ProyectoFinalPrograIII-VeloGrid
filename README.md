@@ -37,9 +37,7 @@ Este proyecto aplica los patrones de diseño, principios de arquitectura de soft
 ### ✨ Características Principales
 * **Gestión de Rutas:** Creación, edición y visualización de trayectos seguros para ciclistas.
 * **Interfaz Intuitiva:** Diseño pensado en la usabilidad y la rápida interacción.
-* **[Añade otra característica clave de tu software]**
-* **[Añade otra característica clave de tu software]**
-
+  
 ---
 
 ## 🛠️ Tecnologías Utilizadas
@@ -48,7 +46,3 @@ Este proyecto aplica los patrones de diseño, principios de arquitectura de soft
 * **Herramientas de diseño:** Swing UI
 
 ---
-
-1. Clona este repositorio:
-```bash
-   git clone [https://github.com/tu-usuario/velogrid.git](https://github.com/tu-usuario/velogrid.git)

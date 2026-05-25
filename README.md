@@ -44,16 +44,10 @@ Este proyecto aplica los patrones de diseño, principios de arquitectura de soft
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **Lenguaje principal:** [Ej. Java, C#, Python]
-* **Framework / Librerías:** [Ej. Spring Boot, .NET, React]
-* **Base de Datos:** [Ej. MySQL, PostgreSQL, MongoDB]
-* **Herramientas de diseño:** Figma
+* **Lenguaje principal:** [Java]
+* **Herramientas de diseño:** Swing UI
 
 ---
-
-## 🚀 Instalación y Ejecución
-
-Para desplegar este proyecto en un entorno local, sigue las siguientes instrucciones:
 
 1. Clona este repositorio:
 ```bash

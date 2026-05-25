@@ -1,4 +1,5 @@
-//Remigio Estuvo Aqui//Test//Test2
+
+//Remigio Estuvo Aqui//Test//Test
 public class Usuario {
     /** Definición de Atributos de Clase*/
     private int idUsuario;

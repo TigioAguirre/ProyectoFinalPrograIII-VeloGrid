@@ -7,111 +7,84 @@ public class VentanaRutas extends JFrame {
     private JPanel panel1;
     private JTabbedPane tabbedPane1;
 
-    // TAB RUTAS
-    private JComboBox<String> comboParadas;
+    private JComboBox<Ciclovia> comboParadas;
     private JButton btnAgregar;
     private JButton btnEliminar;
-    private JButton btnLimpiar;
-    private JList<String> listaRutas;
-
-    // TAB ALERTAS
+    private JList<Ciclovia> listaRutas;
     private JTextArea textArea1;
 
-    // Modelo para el JList
-    private DefaultListModel<String> modeloLista;
+    private DefaultListModel<Ciclovia> modeloLista;
+
+    private Usuario usuarioActual;
 
     public VentanaRutas() {
 
-        // CONFIGURACIÓN DE LA VENTANA
-        setTitle("Velogrind - Planificador de Rutas");
+        setTitle("Planificador de Rutas");
         setContentPane(panel1);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(750, 500);
+        setSize(600, 450);
         setLocationRelativeTo(null);
 
+        usuarioActual = new Usuario(1, "Ethan Branch", NivelExperiencia.EXPERTO);
 
         modeloLista = new DefaultListModel<>();
         listaRutas.setModel(modeloLista);
 
+        cargarCicloviasDePrueba();
 
-        cargarParadas();
+        btnAgregar.addActionListener(e -> {
+            Ciclovia rutaSeleccionada = (Ciclovia) comboParadas.getSelectedItem();
 
+            if (rutaSeleccionada != null) {
+                modeloLista.addElement(rutaSeleccionada);
 
-        textArea1.append("=== SISTEMA DE ALERTAS ===\n");
-        textArea1.append("Sistema iniciado correctamente.\n\n");
+                textArea1.append(">>> Añadiendo parada: Ciclovía #" + rutaSeleccionada.getIdCiclovia() + "\n");
 
+                String evaluacion = evaluarRutaParaUsuario(rutaSeleccionada);
+                textArea1.append(evaluacion + "\n\n");
+            }
+        });
 
-        btnAgregar.addActionListener(e -> agregarParada());
+        btnEliminar.addActionListener(e -> {
+            int index = listaRutas.getSelectedIndex();
 
+            if(index != -1){
+                Ciclovia eliminada = modeloLista.get(index);
+                modeloLista.remove(index);
 
-        btnEliminar.addActionListener(e -> eliminarParada());
-
-
-        btnLimpiar.addActionListener(e -> limpiarRuta());
+                textArea1.append("--- Ruta removida del plan: Ciclovía #" + eliminada.getIdCiclovia() + "\n\n");
+            } else {
+                JOptionPane.showMessageDialog(this, "Por favor, selecciona una ruta de la lista inferior para eliminar.", "Aviso", JOptionPane.WARNING_MESSAGE);
+            }
+        });
     }
 
 
-    private void cargarParadas() {
-
-        comboParadas.addItem("Terminal Norte");
-        comboParadas.addItem("Centro Histórico");
-        comboParadas.addItem("Universidad Central");
-        comboParadas.addItem("Aeropuerto");
-        comboParadas.addItem("Hospital General");
-        comboParadas.addItem("Mall del Río");
-        comboParadas.addItem("Parque Central");
-        comboParadas.addItem("Estación Sur");
+    private void cargarCicloviasDePrueba() {
+        comboParadas.addItem(new Ciclovia(101, EstadoVia.OPTIMO));
+        comboParadas.addItem(new Ciclovia(102, EstadoVia.REGULAR));
+        comboParadas.addItem(new Ciclovia(103, EstadoVia.DETERIORADA));
+        comboParadas.addItem(new Ciclovia(104, EstadoVia.EN_MANTENIMIENTO));
+        comboParadas.addItem(new Ciclovia(105, EstadoVia.CERRADA));
     }
 
 
-    private void agregarParada() {
+    private String evaluarRutaParaUsuario(Ciclovia ciclovia) {
+        String mensaje = "[Evaluación] " + usuarioActual.getNombreUsuario() + " evaluando...\n";
 
-        String parada = comboParadas.getSelectedItem().toString();
-
-        modeloLista.addElement(parada);
-
-        textArea1.append("✓ Parada agregada: " + parada + "\n");
-    }
-
-
-    private void eliminarParada() {
-
-        int index = listaRutas.getSelectedIndex();
-
-        if(index != -1){
-
-            String eliminada = modeloLista.get(index);
-
-            modeloLista.remove(index);
-
-            textArea1.append("⚠ Parada eliminada: " + eliminada + "\n");
-
+        if (ciclovia.getEstadoVia().equals("CERRADA")) {
+            mensaje += "Ruta rechazada: La vía está completamente cerrada.";
+        } else if (usuarioActual.getNivelExperiencia() == NivelExperiencia.NOVATO && ciclovia.getEstadoVia().equals("DETERIORADA")) {
+            mensaje += "Sugerencia: Esta vía está deteriorada. No recomendada para novatos.";
         } else {
-
-            JOptionPane.showMessageDialog(
-                    null,
-                    "Seleccione una parada para eliminar.",
-                    "Aviso",
-                    JOptionPane.WARNING_MESSAGE
-            );
+            mensaje += "¡Ruta aprobada! Disfruta del viaje.";
         }
+        return mensaje;
     }
-
-
-    private void limpiarRuta() {
-
-        modeloLista.clear();
-
-        textArea1.append("🗑 Ruta limpiada correctamente.\n");
-    }
-
 
     public static void main(String[] args) {
-
         SwingUtilities.invokeLater(() -> {
-
             new VentanaRutas().setVisible(true);
-
         });
     }
 }

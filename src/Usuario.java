@@ -1,3 +1,4 @@
+//Commit Test
 public class Usuario {
     /** Definición de Atributos de Clase*/
     private int idUsuario;

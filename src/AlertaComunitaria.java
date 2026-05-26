@@ -43,11 +43,11 @@ public class AlertaComunitaria extends JFrame {
         comboTipo = new JComboBox<>(TipoIncidente.values());
         formPanel.add(comboTipo);
 
-        formPanel.add(new JLabel("Coordenada X:"));
+        formPanel.add(new JLabel("Coordenada X :"));
         txtX = new JTextField();
         formPanel.add(txtX);
 
-        formPanel.add(new JLabel("Coordenada Y:"));
+        formPanel.add(new JLabel("Coordenada Y :"));
         txtY = new JTextField();
         formPanel.add(txtY);
 

@@ -1,3 +1,5 @@
+package com.veloGrid.modelo;
+
 public class Usuario {
     /** Definición de Atributos de Clase*/
     private int idUsuario;
@@ -31,7 +33,7 @@ public class Usuario {
     /** Métodos Própios de Java*/
     @Override
     public String toString() {
-        return "Usuario "+ idUsuario + " - Nombre de Usuario: " + nombreUsuario + " - Nivel de Experiencia: " + nivelExperiencia ;
+        return "com.veloGrid.modelo.Usuario "+ idUsuario + " - Nombre de com.veloGrid.modelo.Usuario: " + nombreUsuario + " - Nivel de Experiencia: " + nivelExperiencia ;
     }
     /** Métodos Própios del desarrollador*/
     public void planificarRuta(){}

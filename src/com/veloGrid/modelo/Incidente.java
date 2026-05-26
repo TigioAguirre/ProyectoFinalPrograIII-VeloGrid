@@ -1,3 +1,5 @@
+package com.veloGrid.modelo;
+
 public class Incidente {
     /** Definición de Atributos de Clase*/
     private int idIncidente;
@@ -31,8 +33,7 @@ public class Incidente {
     /** Métodos Própios de Java*/
     @Override
     public String toString() {
-        return "Incidente #" + idIncidente + " - Tipo de Incidente: " + tipoIncidente + " - Ubicación" + ubicacion.toString() ;
-    }
+        return "Incidente #" + idIncidente + " - Tipo de Incidente: " + tipoIncidente + " - Ubicacion [X,Y]: (" + ubicacion.getPosX() + "," + ubicacion.getPosY() + ")";}
     /** Métodos Própios del desarrollador*/
     public void actualizarEstado(){}
     public void notificarUsuario(){}

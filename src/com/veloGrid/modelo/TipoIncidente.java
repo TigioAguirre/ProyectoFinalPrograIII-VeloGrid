@@ -1,3 +1,5 @@
+package com.veloGrid.modelo;
+
 public enum TipoIncidente {
     OBSTACULO_EN_VIA,
     CICLOVIA_INVADIDA,

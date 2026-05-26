@@ -1,3 +1,5 @@
+package com.veloGrid.modelo;
+
 public enum EstadoVia {
     OPTIMO,
     REGULAR,

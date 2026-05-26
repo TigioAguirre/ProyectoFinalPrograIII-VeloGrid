@@ -1,3 +1,5 @@
+package com.veloGrid.modelo;
+
 public class Coordenada {
     /** Definición de Atributos de Clase*/
     private double posX;
@@ -23,7 +25,7 @@ public class Coordenada {
     /** Métodos Própios de Java*/
     @Override
     public String toString() {
-        return "Coordenada: ("+ posX + "," + posY+ ")"  ;
+        return "com.veloGrid.modelo.Coordenada: ("+ posX + "," + posY+ ")"  ;
     }
     /** Métodos Própios del desarrollador*/
     public double distanciaHacia(Coordenada coordenada){

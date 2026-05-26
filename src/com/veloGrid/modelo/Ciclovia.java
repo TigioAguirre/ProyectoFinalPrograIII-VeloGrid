@@ -1,3 +1,5 @@
+package com.veloGrid.modelo;
+
 //prueba Ethan Branch
 public class Ciclovia {
     /** Definición de Atributos de Clase*/
@@ -24,7 +26,7 @@ public class Ciclovia {
     /** Métodos Própios de Java*/
     @Override
     public String toString() {
-        return "Ciclovia #" + idCiclovia + " - Estado de la Via: " + estadoVia ;
+        return "com.veloGrid.modelo.Ciclovia #" + idCiclovia + " - Estado de la Via: " + estadoVia ;
     }
     /** Métodos Própios del desarrollador*/
     public void verificarEstado(){}

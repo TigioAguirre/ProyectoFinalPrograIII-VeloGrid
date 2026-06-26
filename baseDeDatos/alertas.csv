@@ -1,0 +1,2 @@
+idAlerta,idNodoOrigen,idNodoDestino,tipoIncidente,gravedad,descripcion,usuarioReporta,fechaReporte,estado,solicitudesEliminacion
+1,1,49,OBSTACULO_EN_VIA,N/A,test,Remigio Aguirre,26/06/2026 00:39,ACTIVO,0

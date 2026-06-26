@@ -1,0 +1,12 @@
+package com.veloGrid.clasesBase;
+
+public enum TipoIncidente {
+    OBSTACULO_EN_VIA,
+    CICLOVIA_INVADIDA,
+    ACCIDENTE_TRANSITO,
+    CIERRE_VIAL,
+    ZONA_INSEGURA,
+    ANIMALES_SUELTOS,
+    CLIMA_EXTREMO,
+    OTRO
+}

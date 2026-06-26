@@ -1,0 +1,117 @@
+id,nombre,posX,posY,esCiclovia,creador,esVerificado
+1,Amazonas y naciones unidas,7667.94,10690.35,true,admin,false
+2,Shyris y Naciones unidas,8090.11,10772.32,false,admin,false
+3,Naciones unidas y 6 de diciembre,8372.83,10835.04,false,admin,false
+4,6 de diciembre y Gaspar,8534.65,10227.77,false,admin,false
+5,6 de diciembre y Granados,8528.29,10071.41,false,admin,false
+6,Granados y los Colimes,8827.38,9984.13,false,admin,false
+7,UDLA Granados,8835.91,9887.64,false,admin,false
+8,Eloy Alfaro y Granados,9263.65,9757.56,false,admin,false
+9,Redonde del ciclista,9781.53,9485.31,false,admin,false
+10,Redondel Via Nayon,9887.4,9400.01,false,admin,false
+11,UDLA Park,10105.81,9432.68,false,admin,false
+12,De las Azucenas y de las Higueras,9693.8,9154.38,false,admin,false
+13,Eloy Alfaro y de las Azucenas,9482.05,8883.34,false,admin,false
+14,Eloy Alfaro y Rio Coca,9296.32,9639.59,false,admin,false
+15,Redondel Eloy Alfaro y El Inca,9551.41,8492.23,false,admin,false
+16,Y El inca y de las palmeras,9375.63,8605.84,false,admin,false
+17,El Inca y 6 de diciembre,8482.43,8681.09,true,admin,false
+18,6 de diciembre y Shyris,8431.3,9173.61,true,admin,false
+19,6 de diciembre y Rio Coca,8624.9,9514.22,true,admin,false
+20,Rio Coca y Shyris,8319.37,9462.8,false,admin,false
+21,Rio Coca y Amazonas,7890.89,9380.11,true,admin,false
+22,Gama Autos Eloy Alfaro,9207.29,8043.03,false,admin,false
+23,Eloy Alfaro y Los Álamos,9171.32,7725.77,false,admin,false
+24,Eloy Alfaro y Pinos,9099.22,6973.56,false,admin,false
+25,6 de diciembre y Pinos,8778.66,7034.95,false,admin,false
+26,Pinos y Galo Plaza,7962.14,7191.82,false,admin,false
+27,Galo plaza y Nicolas Urquiola,7996.25,6913.15,false,admin,false
+28,Nicolás Urquiola y Teodoro Salen,8146.74,6916.0,false,admin,false
+29,Nicolás Urquiola y Pedro Cornelio,8202.33,6917.0,false,admin,false
+30,Cotac,7953.66,6935.37,false,admin,false
+31,Entrada Bicentenario Bomberos,7438.81,6900.0,true,admin,false
+32,Ciclo Via Bicentenario Bomberos,7389.74,6895.39,true,admin,false
+33,Ciclovía Hangar Militar Bicentenario,7224.9,6933.07,true,admin,false
+34,Parque de Ferias Quito Turismo,7282.46,7309.05,true,admin,false
+36,Centro de convenciones Quito,7421.77,7975.8,true,admin,false
+37,Entrada Ciclovía Bicentenario Amazonas,7429.82,8029.75,true,admin,false
+38,Av. Amazonas - Bulevar Bicentenario,7285.68,8063.57,true,admin,false
+39,Amazonas e Issac Albeniz,7439.42,8600.35,true,admin,false
+40,Amazonas y Zamora,7490.65,8785.85,true,admin,false
+41,Estación El labrador,7612.15,8785.85,false,admin,false
+42,Entrada Intercambiador Ciclovía Amazonas y 10 de Agosto,7666.15,8893.35,true,admin,false
+43,SalidaIntercambiador Ciclovía Amazonas y 10 de Agosto,7760.65,8981.85,true,admin,false
+44,Amazonas y El Inca,7829.15,9094.35,true,admin,false
+45,KFC el Inca,7911.15,9194.85,true,admin,false
+46,Estación Jipijapa,7842.65,9605.35,true,admin,false
+47,Gaspar Villarroel y Amazonas,7765.65,10055.35,true,admin,false
+48,Amazonas - Plataforma del Norte,7703.15,10410.85,true,admin,false
+49,Amazonas - Registro Civil,7662.15,10626.85,true,admin,false
+50,Amazonas - Caracol,7637.15,10766.85,true,admin,false
+51,Amazonas y Japón,7622.15,10932.35,true,admin,false
+52,Japón,7758.15,10953.85,false,admin,false
+53,Japón y Naciones Unidas,7829.65,10722.35,false,admin,false
+54,Amazonas y Atahualpa,7564.15,11218.85,true,admin,false
+55,Amazonas y República,7473.15,11730.35,true,admin,false
+56,Amazonas y Eloy Alfaro,7392.23,12188.94,true,admin,false
+57,Eloy Alfaro y República,7613.6,12082.63,false,admin,false
+58,Eloy Alfaro y Shyris,7931.24,11890.68,false,admin,false
+59,Eloy Alfaro y 6 de Diciembre,8226.8,11709.24,false,admin,false
+60,Roca roja Eloy Alfaro,8543.99,11387.13,false,admin,false
+61,Eloy Alfaro - Parque Costa Rica,8734.99,11017.13,false,admin,false
+62,Amazonas y Orellana,7278.63,12649.33,true,admin,false
+63,Amazonas y Colón,7160.88,12938.8,true,admin,false
+64,Amazonas y Luis Cordero,7122.59,13019.0,true,admin,false
+65,Banco del Pacífico Amazonas,6869.09,13167.0,true,admin,false
+66,Amazonas y Francisco Robles,6721.59,13423.5,true,admin,false
+67,Patria y Amazonas,6594.59,13635.0,true,admin,false
+68,Entrada Ciclovía Parque Ejido,6570.59,13672.5,true,admin,false
+69,Mitad Ciclovía Parque Ejido,6532.09,13771.5,true,admin,false
+70,Salida Parque Ejido,6317.09,13903.5,true,admin,false
+71,Parque Ejido - Tarqui,6318.59,13928.5,true,admin,false
+72,Tarqui y Luis Felipe Borja,6327.09,13968.0,true,admin,false
+73,10 de Agosto - Parque La Alameda,6076.1,14216.76,false,admin,false
+74,10 de Agosto y Gran Colombia,5905.59,14453.42,false,admin,false
+75,Calle Guayaquil,5767.24,14563.96,false,admin,false
+76,José Joaquín Olmedo y Guayaquil,5409.27,14720.62,false,admin,false
+77,Guayaquil y Chile,5311.17,14840.68,false,admin,false
+78,Venezuela y Chile,5241.67,14792.08,false,admin,false
+79,Plaza Grande,5193.17,14797.08,false,admin,false
+80,10 de Agosto y Tarqui,6238.43,13920.38,false,admin,false
+81,10 de Agosto y Patria,6379.23,13552.98,false,admin,false
+82,10 de Agosto y Colón,6704.28,12761.53,false,admin,false
+83,10 de Agosto y Eloy Alfaro,6812.08,12486.53,false,admin,false
+84,Estación La Pradera,7028.23,12391.43,false,admin,false
+85,10 de Agosto y Mariana de Jesús,7065.74,11859.64,false,admin,false
+86,Redondel del Martí,6723.91,11680.56,false,admin,false
+87,Entrada Desnivel Atahualpa,7143.18,11425.85,false,admin,false
+88,Salida Desnivel Atahualpa,7376.71,11305.46,false,admin,false
+89,Galo Plaza y Murialdo,8028.06,6498.39,false,admin,false
+90,Galo Plaza y Luis Tufiño,8050.21,6323.89,false,admin,false
+91,Real Audiencia y Luis Tufiño,7487.39,6258.82,false,admin,false
+92,Luis Tufiño - Entrada Bicentenario,7332.93,6221.49,false,admin,false
+93,Salida Bicentenario - Luis Tufiño,7290.47,6224.41,true,admin,false
+94,Galo Plaza y Maestro,8098.39,6048.37,false,admin,false
+95,Galo Plaza y Eucaliptos,8217.88,5095.34,false,admin,false
+96,Galo Plaza - Kenworth,8287.05,4593.54,false,admin,false
+97,Ma esa Galo Plaza,8508.23,4201.85,false,admin,false
+98,Galo Plaza - Intercambiador Panamericana Norte,9090.9,3426.26,false,admin,false
+99,N76 Panamericana Norte,9383.92,3251.75,false,admin,false
+100,Panamericana Norte - Conjunto Verona,9612.45,3429.79,false,admin,false
+101,Panamericana Norte - La Bota,9915.39,4382.01,false,admin,false
+102,Redondel Panamericana Norte y Simon Bolivar,10143.92,4489.19,false,admin,false
+103,Panamericana Norte El Portal,10454.82,4451.76,false,admin,false
+104,Portugal y Shyris,8004.02,11193.85,false,admin,false
+105,Eloy Alfaro y Gaspar,8996.93,10378.17,false,admin,false
+106,F.Urrutia y Guanguiltagua,9061.6,10479.83,false,admin,false
+107,Guanguiltagua y Diego Novoa,8871.56,11051.56,false,admin,false
+108,entrada metropolitano,9030.8,10980.36,false,admin,false
+109,Naciones Unidas y 10 de Agosto,7422.2275390625,10640.26953125,false,admin,false
+110,Plaza de las Americas,6971.8251953125,10587.75,false,admin,false
+112,America y Cuero y Caicedo,6614.580078125,11989.7001953125,false,admin,false
+115,Shyrus y Suecia,8046.580078125,11013.7001953125,false,admin,false
+116,Amazonas y Mariana de Jesus,7424.73779296875,11997.8994140625,true,admin,false
+117,Shyrys y Gaspar de Villaroel,8196.087890625,10148.3916015625,false,admin,false
+119,Parque de Colores,8954.775390625,10803.4443359375,false,admin,false
+120,Portugal y Eloy Alfaro,8584.580078125,11215.7001953125,false,admin,false
+121,Portugal y 6 de Diciembre,8301.580078125,11265.7001953125,false,admin,false

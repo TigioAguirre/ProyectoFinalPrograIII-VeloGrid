@@ -1,0 +1,291 @@
+idInicio,idFinal,pendiente,agregadaPor,esVerificada,esCiclovia,distancia,ponderacionRapidez,ponderacionCiclovia,ponderacionPendiente,nombreRuta,tieneIncidente
+1,49,-1.5,admin,false,true,63.763423919677734,1000.14716,1000.0074,1000.33887,De Amazonas y naciones unidas a Amazonas - Registro Civil,true
+1,50,1.5,admin,false,true,82.46377563476562,0.20364846,0.009549488,0.47382876,De Amazonas y naciones unidas a Amazonas - Caracol,false
+1,53,-3.5,admin,false,false,164.84576416015625,0.24893518,0.81908953,0.30876157,De Amazonas y naciones unidas a Japón y Naciones Unidas,false
+1,109,-3.5,admin,false,false,250.76416015625,0.2787838,0.82903904,0.31622374,De Amazonas y naciones unidas a Naciones Unidas y 10 de Agosto,false
+2,3,-3.0,admin,false,false,289.593505859375,0.30060673,0.83353555,0.34181836,De Shyris y Naciones unidas a Naciones unidas y 6 de diciembre,false
+2,53,3.5,admin,false,false,265.21014404296875,0.4004691,0.8307119,0.62858945,De Shyris y Naciones unidas a Japón y Naciones Unidas,false
+2,117,-2.0,admin,false,false,632.8648681640625,0.43652815,0.87328714,0.41607648,De Shyris y Naciones unidas a Shyrys y Gaspar de Villaroel,false
+2,115,2.0,admin,false,false,245.27383422851562,0.3685431,0.82840323,0.56019133,De Shyris y Naciones unidas a Shyrus y Suecia,false
+3,4,-1.8,admin,false,false,628.46044921875,0.43833134,0.8727771,0.4245828,De Naciones unidas y 6 de diciembre a 6 de diciembre y Gaspar,false
+3,2,3.0,admin,false,false,289.593505859375,0.40060672,0.83353555,0.60848504,De Naciones unidas y 6 de diciembre a Shyris y Naciones unidas,false
+3,121,1.8,admin,false,false,436.5143127441406,0.431648,0.85054934,0.56791204,De Naciones unidas y 6 de diciembre a Portugal y 6 de Diciembre,false
+4,5,-1.8,admin,false,false,156.48928833007812,0.27436543,0.8181218,0.38359132,De 6 de diciembre y Gaspar a 6 de diciembre y Granados,false
+4,3,1.8,admin,false,false,628.46044921875,0.49833134,0.8727771,0.58458287,De 6 de diciembre y Gaspar a Naciones unidas y 6 de diciembre,false
+4,117,-2.8,admin,false,false,347.7430419921875,0.32414156,0.8402694,0.3557576,De 6 de diciembre y Gaspar a Shyrys y Gaspar de Villaroel,false
+4,105,2.8,admin,false,false,486.1305847167969,0.46555167,0.856295,0.61666566,De 6 de diciembre y Gaspar a Eloy Alfaro y Gaspar,false
+5,6,-4.5,admin,false,false,311.5647888183594,0.2832397,0.8360799,0.2770599,De 6 de diciembre y Granados a Granados y los Colimes,false
+5,19,1.8,admin,false,false,565.5034790039062,0.47645968,0.86548656,0.5791149,De 6 de diciembre y Granados a 6 de diciembre y Rio Coca,false
+5,4,1.8,admin,false,false,156.48928833007812,0.33436543,0.8181218,0.5435914,De 6 de diciembre y Granados a 6 de diciembre y Gaspar,false
+6,8,-4.5,admin,false,false,491.5948181152344,0.34578332,0.85692775,0.29269582,De Granados y los Colimes a Eloy Alfaro y Granados,false
+6,7,3.0,admin,false,false,96.86630249023438,0.333652,0.8112173,0.59174633,De Granados y los Colimes a UDLA Granados,false
+6,5,4.5,admin,false,false,311.5647888183594,0.43323967,0.8360799,0.67705995,De Granados y los Colimes a 6 de diciembre y Granados,false
+7,6,-3.0,admin,false,false,96.86630249023438,0.233652,0.8112173,0.32507968,De UDLA Granados a Granados y los Colimes,false
+8,14,-2.5,admin,false,false,122.41017150878906,0.25085944,0.81417537,0.34952042,De Eloy Alfaro y Granados a Eloy Alfaro y Rio Coca,false
+8,9,6.5,admin,false,false,585.0809936523438,0.56159437,0.8677537,0.78970414,De Eloy Alfaro y Granados a Redonde del ciclista,false
+8,6,4.5,admin,false,false,491.5948181152344,0.4957833,0.85692775,0.69269586,De Eloy Alfaro y Granados a Granados y los Colimes,false
+8,105,2.5,admin,false,false,675.4970703125,0.5263388,0.8782241,0.61977917,De Eloy Alfaro y Granados a Eloy Alfaro y Gaspar,false
+9,8,-6.5,admin,false,false,585.0809936523438,0.3449277,0.8677537,0.21192637,De Redonde del ciclista a Eloy Alfaro y Granados,false
+9,12,-3.5,admin,false,false,342.3612365722656,0.31060523,0.8396462,0.32417908,De Redonde del ciclista a De las Azucenas y de las Higueras,false
+9,10,8.5,admin,false,false,135.9578857421875,0.43889934,0.8157442,0.83958596,De Redonde del ciclista a Redondel Via Nayon,false
+10,9,-8.5,admin,false,false,135.9578857421875,0.155566,0.8157442,0.08403039,De Redondel Via Nayon a Redonde del ciclista,false
+10,11,6.0,admin,false,false,220.8398895263672,0.42672125,0.82557374,0.73584694,De Redondel Via Nayon a UDLA Park,false
+11,10,-6.0,admin,false,false,220.8398895263672,0.22672124,0.82557374,0.20251365,De UDLA Park a Redondel Via Nayon,false
+12,13,-3.5,admin,false,false,343.9487609863281,0.31115675,0.83983004,0.32431698,De De las Azucenas y de las Higueras a Eloy Alfaro y de las Azucenas,false
+12,9,3.5,admin,false,false,342.3612365722656,0.4272719,0.8396462,0.6352902,De De las Azucenas y de las Higueras a Redonde del ciclista,false
+13,15,-2.5,admin,false,false,397.21258544921875,0.34632763,0.8459981,0.37338746,De Eloy Alfaro y de las Azucenas a Redondel Eloy Alfaro y El Inca,false
+13,14,2.5,admin,false,false,778.72314453125,0.56220025,0.89017785,0.62874454,De Eloy Alfaro y de las Azucenas a Eloy Alfaro y Rio Coca,false
+13,12,3.5,admin,false,false,343.9487609863281,0.42782342,0.83983004,0.6354281,De Eloy Alfaro y de las Azucenas a De las Azucenas y de las Higueras,false
+14,13,-2.5,admin,false,false,778.72314453125,0.47886693,0.89017785,0.40652227,De Eloy Alfaro y Rio Coca a Eloy Alfaro y de las Azucenas,false
+14,8,2.5,admin,false,false,122.41017150878906,0.33419278,0.81417537,0.57174265,De Eloy Alfaro y Rio Coca a Eloy Alfaro y Granados,false
+14,19,-3.0,admin,false,false,683.0244750976562,0.43728724,0.87909573,0.37598848,De Eloy Alfaro y Rio Coca a 6 de diciembre y Rio Coca,false
+15,22,-2.5,admin,false,false,565.8614501953125,0.40491736,0.865528,0.38803488,De Redondel Eloy Alfaro y El Inca a Gama Autos Eloy Alfaro,false
+15,16,3.0,admin,false,false,209.29844665527344,0.3727117,0.8242372,0.60151124,De Redondel Eloy Alfaro y El Inca a Y El inca y de las palmeras,false
+15,13,2.5,admin,false,false,397.21258544921875,0.42966098,0.8459981,0.59560966,De Redondel Eloy Alfaro y El Inca a Eloy Alfaro y de las Azucenas,false
+16,15,-3.0,admin,false,false,209.29844665527344,0.27271166,0.8242372,0.3348446,De Y El inca y de las palmeras a Redondel Eloy Alfaro y El Inca,false
+16,17,3.0,admin,false,false,896.3641967773438,0.61140287,0.90380096,0.6611841,De Y El inca y de las palmeras a El Inca y 6 de diciembre,false
+17,16,-3.0,admin,false,false,896.3641967773438,0.5114029,0.90380096,0.3945174,De El Inca y 6 de diciembre a Y El inca y de las palmeras,false
+17,44,-2.8,admin,false,true,773.0191650390625,0.37188533,0.08951733,0.34269354,De El Inca y 6 de diciembre a Amazonas y El Inca,false
+17,18,2.0,admin,false,true,495.1668701171875,0.3553576,0.057341423,0.5318949,De El Inca y 6 de diciembre a 6 de diciembre y Shyris,false
+18,17,-2.0,admin,false,true,495.1668701171875,0.28869092,0.057341423,0.35411718,De 6 de diciembre y Shyris a El Inca y 6 de diciembre,false
+18,20,2.0,admin,false,false,310.0954284667969,0.39106256,0.8359097,0.5658212,De 6 de diciembre y Shyris a Rio Coca y Shyris,false
+18,19,2.0,admin,false,true,391.78582763671875,0.31944233,0.045369666,0.52291614,De 6 de diciembre y Shyris a 6 de diciembre y Rio Coca,false
+19,18,-2.0,admin,false,true,391.78582763671875,0.25277567,0.045369666,0.34513837,De 6 de diciembre y Rio Coca a 6 de diciembre y Shyris,false
+19,20,-3.0,admin,false,false,309.82672119140625,0.30763587,0.8358786,0.34357563,De 6 de diciembre y Rio Coca a Rio Coca y Shyris,false
+19,14,3.0,admin,false,false,683.0244750976562,0.53728724,0.87909573,0.64265513,De 6 de diciembre y Rio Coca a Eloy Alfaro y Rio Coca,false
+19,5,-1.8,admin,false,false,565.5034790039062,0.41645965,0.86548656,0.4191149,De 6 de diciembre y Rio Coca a 6 de diciembre y Granados,false
+20,18,-2.0,admin,false,false,310.0954284667969,0.3243959,0.8359097,0.38804343,De Rio Coca y Shyris a 6 de diciembre y Shyris,false
+20,21,-3.0,admin,false,false,436.3860168457031,0.35160342,0.85053444,0.35456753,De Rio Coca y Shyris a Rio Coca y Amazonas,false
+20,19,3.0,admin,false,false,309.82672119140625,0.40763587,0.8358786,0.6102423,De Rio Coca y Shyris a 6 de diciembre y Rio Coca,false
+20,117,2.0,admin,false,false,696.587646484375,0.5253325,0.8806664,0.59938866,De Rio Coca y Shyris a Shyrys y Gaspar de Villaroel,false
+21,45,-1.5,admin,false,true,186.36451721191406,0.18974426,0.021581424,0.3495194,De Rio Coca y Amazonas a KFC el Inca,false
+21,46,1.5,admin,false,true,230.347900390625,0.25502437,0.026674798,0.48667276,De Rio Coca y Amazonas a Estación Jipijapa,false
+21,20,3.0,admin,false,false,436.3860168457031,0.4516034,0.85053444,0.6212342,De Rio Coca y Amazonas a Rio Coca y Shyris,false
+22,23,-2.5,admin,false,false,319.2925720214844,0.3192577,0.8369748,0.36661997,De Gama Autos Eloy Alfaro a Eloy Alfaro y Los Álamos,false
+22,15,2.5,admin,false,false,565.8614501953125,0.4882507,0.865528,0.61025715,De Gama Autos Eloy Alfaro a Redondel Eloy Alfaro y El Inca,false
+23,24,-2.5,admin,false,false,755.6575317382812,0.47085378,0.88750684,0.404519,De Eloy Alfaro y Los Álamos a Eloy Alfaro y Pinos,false
+23,22,2.5,admin,false,false,319.2925720214844,0.40259102,0.8369748,0.5888422,De Eloy Alfaro y Los Álamos a Gama Autos Eloy Alfaro,false
+24,25,-3.5,admin,false,false,326.38543701171875,0.30505514,0.83779615,0.32279155,De Eloy Alfaro y Pinos a 6 de diciembre y Pinos,false
+24,23,2.5,admin,false,false,755.6575317382812,0.5541871,0.88750684,0.62674123,De Eloy Alfaro y Pinos a Eloy Alfaro y Los Álamos,false
+25,26,-3.5,admin,false,false,831.452392578125,0.48051876,0.89628404,0.36665747,De 6 de diciembre y Pinos a Pinos y Galo Plaza,false
+25,24,3.5,admin,false,false,326.38543701171875,0.4217218,0.83779615,0.63390267,De 6 de diciembre y Pinos a Eloy Alfaro y Pinos,false
+26,27,-2.2,admin,false,false,280.74981689453125,0.3108677,0.8325114,0.3766058,De Pinos y Galo Plaza a Galo plaza y Nicolas Urquiola,false
+26,25,3.5,admin,false,false,831.452392578125,0.59718543,0.89628404,0.6777685,De Pinos y Galo Plaza a 6 de diciembre y Pinos,false
+26,42,2.2,admin,false,false,1727.0826416015625,0.88666666,1.0,0.69777775,De Pinos y Galo Plaza a Entrada Intercambiador Ciclovía Amazonas y 10 de Agosto,false
+27,89,-2.2,admin,false,false,415.9780578613281,0.3578469,0.8481712,0.3883506,De Galo plaza y Nicolas Urquiola a Galo Plaza y Murialdo,false
+27,28,2.5,admin,false,false,150.51698303222656,0.34395728,0.8174302,0.57418376,De Galo plaza y Nicolas Urquiola a Nicolás Urquiola y Teodoro Salen,false
+27,30,1.0,admin,false,false,48.037864685058594,0.28335536,0.8055629,0.49861664,De Galo plaza y Nicolas Urquiola a Cotac,false
+27,26,2.2,admin,false,false,280.74981689453125,0.38420102,0.8325114,0.5721613,De Galo plaza y Nicolas Urquiola a Pinos y Galo Plaza,false
+28,27,-2.5,admin,false,false,150.51698303222656,0.26062393,0.8174302,0.35196152,De Nicolás Urquiola y Teodoro Salen a Galo plaza y Nicolas Urquiola,false
+28,29,2.5,admin,false,false,55.598995208740234,0.31098214,0.8064385,0.56593996,De Nicolás Urquiola y Teodoro Salen a Nicolás Urquiola y Pedro Cornelio,false
+29,28,-2.5,admin,false,false,55.598995208740234,0.2276488,0.8064385,0.34371775,De Nicolás Urquiola y Pedro Cornelio a Nicolás Urquiola y Teodoro Salen,false
+30,27,-1.0,admin,false,false,48.037864685058594,0.250022,0.8055629,0.40972772,De Cotac a Galo plaza y Nicolas Urquiola,false
+30,31,0.8,admin,false,false,516.0635375976562,0.44261724,0.8597613,0.53037655,De Cotac a Entrada Bicentenario Bomberos,false
+31,30,-0.8,admin,false,false,516.0635375976562,0.41595057,0.8597613,0.4592654,De Entrada Bicentenario Bomberos a Cotac,false
+31,32,0.5,admin,false,true,49.28607177734375,0.17545564,0.0057074362,0.42650282,De Entrada Bicentenario Bomberos a Ciclo Via Bicentenario Bomberos,false
+32,31,-0.5,admin,false,true,49.28607177734375,0.15878898,0.0057074362,0.38205835,De Ciclo Via Bicentenario Bomberos a Entrada Bicentenario Bomberos,false
+32,93,-0.5,admin,false,true,678.2836303710938,0.3773069,0.07854675,0.43668783,De Ciclo Via Bicentenario Bomberos a Salida Bicentenario - Luis Tufiño,false
+32,33,0.5,admin,false,true,169.0917205810547,0.21707693,0.019581197,0.43690813,De Ciclo Via Bicentenario Bomberos a Ciclovía Hangar Militar Bicentenario,false
+33,32,-0.5,admin,false,true,169.0917205810547,0.20041025,0.019581197,0.39246365,De Ciclovía Hangar Militar Bicentenario a Ciclo Via Bicentenario Bomberos,false
+33,34,0.5,admin,false,true,380.3605041503906,0.2904731,0.04404659,0.45525718,De Ciclovía Hangar Militar Bicentenario a Parque de Ferias Quito Turismo,false
+34,33,-0.5,admin,false,true,380.3605041503906,0.27380642,0.04404659,0.4108127,De Parque de Ferias Quito Turismo a Ciclovía Hangar Militar Bicentenario,false
+34,36,0.5,admin,false,true,681.148193359375,0.39496875,0.07887847,0.4813811,De Parque de Ferias Quito Turismo a Centro de convenciones Quito,false
+36,34,-0.5,admin,false,true,681.148193359375,0.37830207,0.07887847,0.43693662,De Centro de convenciones Quito a Parque de Ferias Quito Turismo,false
+36,37,-0.5,admin,false,true,54.547271728515625,0.16061674,0.006316695,0.38251528,De Centro de convenciones Quito a Entrada Ciclovía Bicentenario Amazonas,false
+37,36,0.5,admin,false,true,54.547271728515625,0.17728342,0.006316695,0.42695975,De Entrada Ciclovía Bicentenario Amazonas a Centro de convenciones Quito,false
+37,38,0.5,admin,false,true,148.0544891357422,0.20976846,0.017145038,0.435081,De Entrada Ciclovía Bicentenario Amazonas a Av. Amazonas - Bulevar Bicentenario,false
+38,37,-0.5,admin,false,true,148.0544891357422,0.19310178,0.017145038,0.39063653,De Av. Amazonas - Bulevar Bicentenario a Entrada Ciclovía Bicentenario Amazonas,false
+38,39,1.5,admin,false,true,558.362548828125,0.36897886,0.06465962,0.5151614,De Av. Amazonas - Bulevar Bicentenario a Amazonas e Issac Albeniz,false
+39,38,-1.5,admin,false,true,558.362548828125,0.31897888,0.06465962,0.38182804,De Amazonas e Issac Albeniz a Av. Amazonas - Bulevar Bicentenario,false
+39,40,1.5,admin,false,true,192.44418334960938,0.24185638,0.022285463,0.48338073,De Amazonas e Issac Albeniz a Amazonas y Zamora,false
+40,39,-1.5,admin,false,true,192.44418334960938,0.19185638,0.022285463,0.3500474,De Amazonas y Zamora a Amazonas e Issac Albeniz,false
+40,42,1.5,admin,false,true,205.80694580078125,0.24649869,0.0238329,0.48454133,De Amazonas y Zamora a Entrada Intercambiador Ciclovía Amazonas y 10 de Agosto,false
+40,41,1.5,admin,false,false,121.5,0.3172099,0.81407,0.5272191,De Amazonas y Zamora a Estación El labrador,false
+41,40,-1.5,admin,false,false,121.5,0.26720992,0.81407,0.3938858,De Estación El labrador a Amazonas y Zamora,false
+42,40,-1.5,admin,false,true,205.80694580078125,0.19649869,0.0238329,0.351208,De Entrada Intercambiador Ciclovía Amazonas y 10 de Agosto a Amazonas y Zamora,false
+42,43,1.5,admin,false,true,129.47007751464844,0.21997876,0.014992923,0.47791135,De Entrada Intercambiador Ciclovía Amazonas y 10 de Agosto a SalidaIntercambiador Ciclovía Amazonas y 10 de Agosto,false
+42,26,-2.2,admin,false,false,1727.0826416015625,0.81333333,1.0,0.50222224,De Entrada Intercambiador Ciclovía Amazonas y 10 de Agosto a Pinos y Galo Plaza,false
+43,42,-1.5,admin,false,true,129.47007751464844,0.16997877,0.014992923,0.34457803,De SalidaIntercambiador Ciclovía Amazonas y 10 de Agosto a Entrada Intercambiador Ciclovía Amazonas y 10 de Agosto,false
+43,44,1.5,admin,false,true,131.7136993408203,0.22075821,0.015252738,0.4781062,De SalidaIntercambiador Ciclovía Amazonas y 10 de Agosto a Amazonas y El Inca,false
+44,43,-1.5,admin,false,true,131.7136993408203,0.17075822,0.015252738,0.34477288,De Amazonas y El Inca a SalidaIntercambiador Ciclovía Amazonas y 10 de Agosto,false
+44,45,1.5,admin,false,true,129.7083282470703,0.22006153,0.015020512,0.47793204,De Amazonas y El Inca a KFC el Inca,false
+44,17,2.8,admin,false,true,773.0191650390625,0.46521866,0.08951733,0.5915824,De Amazonas y El Inca a El Inca y 6 de diciembre,false
+45,44,-1.5,admin,false,true,129.7083282470703,0.17006153,0.015020512,0.3445987,De KFC el Inca a Amazonas y El Inca,false
+45,21,1.5,admin,false,true,186.36451721191406,0.23974426,0.021581424,0.48285273,De KFC el Inca a Rio Coca y Amazonas,false
+46,21,-1.5,admin,false,true,230.347900390625,0.20502439,0.026674798,0.35333943,De Estación Jipijapa a Rio Coca y Amazonas,false
+46,47,1.5,admin,false,true,456.5402526855469,0.3336051,0.052868374,0.5063179,De Estación Jipijapa a Gaspar Villarroel y Amazonas,false
+47,46,-1.5,admin,false,true,456.5402526855469,0.28360513,0.052868374,0.37298462,De Gaspar Villarroel y Amazonas a Estación Jipijapa,false
+47,48,1.5,admin,false,true,360.95220947265625,0.3003972,0.041799065,0.49801594,De Gaspar Villarroel y Amazonas a Amazonas - Plataforma del Norte,false
+47,117,2.8,admin,false,false,440.37884521484375,0.4496572,0.85099685,0.61269206,De Gaspar Villarroel y Amazonas a Shyrys y Gaspar de Villaroel,false
+48,47,-1.5,admin,false,true,360.95220947265625,0.2503972,0.041799065,0.3646826,De Amazonas - Plataforma del Norte a Gaspar Villarroel y Amazonas,false
+48,49,1.5,admin,false,true,219.8567657470703,0.2513797,0.0254599,0.48576158,De Amazonas - Plataforma del Norte a Amazonas - Registro Civil,false
+49,48,-1.5,admin,false,true,219.8567657470703,0.2013797,0.0254599,0.35242826,De Amazonas - Registro Civil a Amazonas - Plataforma del Norte,false
+49,1,1.5,admin,false,true,63.763423919677734,0.19715182,0.007383946,0.4722046,De Amazonas - Registro Civil a Amazonas y naciones unidas,false
+50,1,-1.5,admin,false,true,82.46377563476562,0.15364847,0.009549488,0.34049544,De Amazonas - Caracol a Amazonas y naciones unidas,false
+50,51,2.2,admin,false,true,166.17837524414062,0.24439813,0.019243825,0.5122106,De Amazonas - Caracol a Amazonas y Japón,false
+51,50,-2.2,admin,false,true,166.17837524414062,0.17106481,0.019243825,0.3166551,De Amazonas y Japón a Amazonas - Caracol,false
+51,52,2.2,admin,false,false,137.68896484375,0.33450073,0.8159447,0.55973625,De Amazonas y Japón a Japón,false
+51,54,-2.0,admin,false,true,292.3119201660156,0.21821778,0.033850368,0.3364989,De Amazonas y Japón a Amazonas y Atahualpa,false
+52,51,-2.2,admin,false,false,137.68896484375,0.2611674,0.8159447,0.36418074,De Japón a Amazonas y Japón,false
+52,53,-2.2,admin,false,false,242.2901153564453,0.29750654,0.8280577,0.37326553,De Japón a Japón y Naciones Unidas,false
+53,2,-3.5,admin,false,false,265.21014404296875,0.28380242,0.8307119,0.3174784,De Japón y Naciones Unidas a Shyris y Naciones unidas,false
+53,1,3.5,admin,false,false,164.84576416015625,0.36560184,0.81908953,0.6198727,De Japón y Naciones Unidas a Amazonas y naciones unidas,false
+53,52,2.2,admin,false,false,242.2901153564453,0.37083986,0.8280577,0.5688211,De Japón y Naciones Unidas a Japón,false
+54,51,2.0,admin,false,true,292.3119201660156,0.28488442,0.033850368,0.5142767,De Amazonas y Atahualpa a Amazonas y Japón,false
+54,88,-2.0,admin,false,false,206.48255920410156,0.28840008,0.82391113,0.37904447,De Amazonas y Atahualpa a Salida Desnivel Atahualpa,false
+54,55,-1.5,admin,false,true,519.53173828125,0.30548877,0.060162928,0.37845552,De Amazonas y Atahualpa a Amazonas y República,false
+55,116,-1.5,admin,false,true,271.8941650390625,0.21945783,0.03148595,0.35694778,De Amazonas y República a Amazonas y Mariana de Jesus,false
+55,54,1.5,admin,false,true,519.53173828125,0.35548878,0.060162928,0.51178885,De Amazonas y República a Amazonas y Atahualpa,false
+55,57,3.2,admin,false,false,379.2458190917969,0.43508586,0.8439175,0.62516034,De Amazonas y República a Eloy Alfaro y República,false
+55,110,-3.2,admin,false,false,1247.742431640625,0.63014066,0.9444913,0.41614628,De Amazonas y República a Plaza de las Americas,false
+56,84,-2.5,admin,false,false,416.5311584472656,0.35303903,0.84823525,0.3750653,De Amazonas y Eloy Alfaro a Estación La Pradera,false
+56,116,1.5,admin,false,true,193.78663635253906,0.24232276,0.022440922,0.48349735,De Amazonas y Eloy Alfaro a Amazonas y Mariana de Jesus,false
+56,57,2.5,admin,false,false,245.5738067626953,0.37698063,0.828438,0.5824396,De Amazonas y Eloy Alfaro a Eloy Alfaro y República,false
+56,62,1.5,admin,false,true,474.19818115234375,0.3397396,0.0549132,0.50785154,De Amazonas y Eloy Alfaro a Amazonas y Orellana,false
+57,55,-3.2,admin,false,false,379.2458190917969,0.32841918,0.8439175,0.34071591,De Eloy Alfaro y República a Amazonas y República,false
+57,56,-2.5,admin,false,false,245.5738067626953,0.29364732,0.828438,0.36021736,De Eloy Alfaro y República a Amazonas y Eloy Alfaro,false
+57,58,2.5,admin,false,false,371.13336181640625,0.42060086,0.84297806,0.5933447,De Eloy Alfaro y República a Eloy Alfaro y Shyris,false
+58,57,-2.5,admin,false,false,371.13336181640625,0.33726752,0.84297806,0.37112242,De Eloy Alfaro y Shyris a Eloy Alfaro y República,false
+58,59,2.5,admin,false,false,346.8085632324219,0.41215026,0.8401612,0.591232,De Eloy Alfaro y Shyris a Eloy Alfaro y 6 de Diciembre,false
+58,104,-2.0,admin,false,false,700.6204223632812,0.46006685,0.8811334,0.42196116,De Eloy Alfaro y Shyris a Portugal y Shyris,false
+59,58,-2.5,admin,false,false,346.8085632324219,0.32881692,0.8401612,0.3690098,De Eloy Alfaro y 6 de Diciembre a Eloy Alfaro y Shyris,false
+59,60,2.5,admin,false,false,452.0667419433594,0.44871765,0.85235035,0.60037386,De Eloy Alfaro y 6 de Diciembre a Roca roja Eloy Alfaro,false
+60,59,-2.5,admin,false,false,452.0667419433594,0.3653843,0.85235035,0.37815163,De Roca roja Eloy Alfaro a Eloy Alfaro y 6 de Diciembre,false
+60,61,2.5,admin,false,false,416.39044189453125,0.43632346,0.8482189,0.5972753,De Roca roja Eloy Alfaro a Eloy Alfaro - Parque Costa Rica,false
+60,120,2.8,admin,false,false,176.16961669921875,0.35786915,0.82040083,0.58974504,De Roca roja Eloy Alfaro a Portugal y Eloy Alfaro,false
+61,105,-2.5,admin,false,false,690.5667724609375,0.44824082,0.8799692,0.39886576,De Eloy Alfaro - Parque Costa Rica a Eloy Alfaro y Gaspar,false
+61,60,-2.5,admin,false,false,416.39044189453125,0.35299015,0.8482189,0.37505308,De Eloy Alfaro - Parque Costa Rica a Roca roja Eloy Alfaro,false
+61,119,8.0,admin,false,false,306.5406799316406,0.4898276,0.8354981,0.8321791,De Eloy Alfaro - Parque Costa Rica a Parque de Colores,false
+61,120,-2.8,admin,false,false,249.1049346923828,0.28987405,0.82884693,0.3471907,De Eloy Alfaro - Parque Costa Rica a Portugal y Eloy Alfaro,false
+62,56,-1.5,admin,false,true,474.19818115234375,0.2897396,0.0549132,0.37451822,De Amazonas y Orellana a Amazonas y Eloy Alfaro,false
+62,63,1.5,admin,false,true,312.5027160644531,0.28356552,0.03618851,0.49380803,De Amazonas y Orellana a Amazonas y Colón,false
+63,82,-3.5,admin,false,false,489.80426025390625,0.3618279,0.85672045,0.33698475,De Amazonas y Colón a 10 de Agosto y Colón,false
+63,62,-1.5,admin,false,true,312.5027160644531,0.23356552,0.03618851,0.3604747,De Amazonas y Colón a Amazonas y Orellana,false
+63,64,1.5,admin,false,true,88.87161254882812,0.20587458,0.01029153,0.4743853,De Amazonas y Colón a Amazonas y Luis Cordero,false
+64,63,-1.5,admin,false,true,88.87161254882812,0.15587458,0.01029153,0.34105197,De Amazonas y Luis Cordero a Amazonas y Colón,false
+64,65,1.5,admin,false,true,293.5408935546875,0.27697805,0.033992685,0.49216115,De Amazonas y Luis Cordero a Banco del Pacífico Amazonas,false
+65,64,-1.5,admin,false,true,293.5408935546875,0.22697806,0.033992685,0.35882783,De Banco del Pacífico Amazonas a Amazonas y Luis Cordero,false
+65,66,1.5,admin,false,true,295.8859558105469,0.27779275,0.03426425,0.49236482,De Banco del Pacífico Amazonas a Amazonas y Francisco Robles,false
+66,65,-1.5,admin,false,true,295.8859558105469,0.22779274,0.03426425,0.3590315,De Amazonas y Francisco Robles a Banco del Pacífico Amazonas,false
+66,67,1.5,admin,false,true,246.7007293701172,0.26070547,0.028568491,0.48809302,De Amazonas y Francisco Robles a Patria y Amazonas,false
+67,66,-1.5,admin,false,true,246.7007293701172,0.21070547,0.028568491,0.3547597,De Patria y Amazonas a Amazonas y Francisco Robles,false
+67,68,2.5,admin,false,true,44.522464752197266,0.20713407,0.0051558004,0.514978,De Patria y Amazonas a Entrada Ciclovía Parque Ejido,false
+68,81,-2.5,admin,false,false,225.61843872070312,0.28671467,0.8261271,0.3584842,De Entrada Ciclovía Parque Ejido a 10 de Agosto y Patria,false
+68,67,-2.5,admin,false,true,44.522464752197266,0.12380073,0.0051558004,0.29275572,De Entrada Ciclovía Parque Ejido a Patria y Amazonas,false
+68,69,1.0,admin,false,true,106.22264099121094,0.20356913,0.012300817,0.45367008,De Entrada Ciclovía Parque Ejido a Mitad Ciclovía Parque Ejido,false
+69,68,-1.0,admin,false,true,106.22264099121094,0.17023578,0.012300817,0.36478117,De Mitad Ciclovía Parque Ejido a Entrada Ciclovía Parque Ejido,false
+69,70,1.0,admin,false,true,252.28753662109375,0.25431305,0.029215457,0.46635607,De Mitad Ciclovía Parque Ejido a Salida Parque Ejido,false
+70,69,-1.0,admin,false,true,252.28753662109375,0.2209797,0.029215457,0.37746716,De Salida Parque Ejido a Mitad Ciclovía Parque Ejido,false
+70,71,1.0,admin,false,true,25.044960021972656,0.17536746,0.002900262,0.44661966,De Salida Parque Ejido a Parque Ejido - Tarqui,false
+71,70,-1.0,admin,false,true,25.044960021972656,0.14203411,0.002900262,0.35773075,De Parque Ejido - Tarqui a Salida Parque Ejido,false
+71,80,2.0,admin,false,false,80.57022094726562,0.31132397,0.8093302,0.5458865,De Parque Ejido - Tarqui a 10 de Agosto y Tarqui,false
+71,72,2.0,admin,false,true,40.40420913696289,0.19737002,0.004678897,0.49239805,De Parque Ejido - Tarqui a Tarqui y Luis Felipe Borja,false
+72,71,-2.0,admin,false,true,40.40420913696289,0.13070336,0.004678897,0.3146203,De Tarqui y Luis Felipe Borja a Parque Ejido - Tarqui,false
+72,73,1.5,admin,false,false,353.380126953125,0.3977666,0.8409222,0.5473583,De Tarqui y Luis Felipe Borja a 10 de Agosto - Parque La Alameda,false
+73,72,-1.5,admin,false,false,353.380126953125,0.3477666,0.8409222,0.41402498,De 10 de Agosto - Parque La Alameda a Tarqui y Luis Felipe Borja,false
+73,74,-1.8,admin,false,false,291.6875305175781,0.32133418,0.8337781,0.39533353,De 10 de Agosto - Parque La Alameda a 10 de Agosto y Gran Colombia,false
+74,73,1.8,admin,false,false,291.6875305175781,0.3813342,0.8337781,0.55533355,De 10 de Agosto y Gran Colombia a 10 de Agosto - Parque La Alameda,false
+74,75,2.8,admin,false,false,177.08702087402344,0.35818788,0.82050705,0.58982474,De 10 de Agosto y Gran Colombia a Calle Guayaquil,false
+75,74,-2.8,admin,false,false,177.08702087402344,0.26485455,0.82050705,0.34093586,De Calle Guayaquil a 10 de Agosto y Gran Colombia,false
+75,76,3.5,admin,false,false,390.7491149902344,0.44408217,0.8452496,0.63949275,De Calle Guayaquil a José Joaquín Olmedo y Guayaquil,false
+76,75,-3.5,admin,false,false,390.7491149902344,0.3274155,0.8452496,0.32838166,De José Joaquín Olmedo y Guayaquil a Calle Guayaquil,false
+76,77,3.5,admin,false,false,155.04197692871094,0.36219594,0.8179542,0.6190212,De José Joaquín Olmedo y Guayaquil a Guayaquil y Chile,false
+77,76,-3.5,admin,false,false,155.04197692871094,0.24552928,0.8179542,0.30791008,De Guayaquil y Chile a José Joaquín Olmedo y Guayaquil,false
+77,78,4.5,admin,false,false,84.80690002441406,0.35446247,0.80982083,0.6573656,De Guayaquil y Chile a Venezuela y Chile,false
+78,79,-3.0,admin,false,false,48.757049560546875,0.21693853,0.8056462,0.3209013,De Venezuela y Chile a Plaza Grande,false
+78,77,-4.5,admin,false,false,84.80690002441406,0.20446248,0.80982083,0.2573656,De Venezuela y Chile a Guayaquil y Chile,false
+78,118,3.0,admin,false,false,21.382638931274414,0.30742848,0.80247617,0.5851905,De Venezuela y Chile a Sanduches de Pernil,false
+79,78,3.0,admin,false,false,48.757049560546875,0.31693852,0.8056462,0.587568,De Plaza Grande a Venezuela y Chile,false
+80,71,-2.0,admin,false,false,80.57022094726562,0.2446573,0.8093302,0.36810878,De 10 de Agosto y Tarqui a Parque Ejido - Tarqui,false
+80,81,-1.8,admin,false,false,393.4557189941406,0.35668913,0.84556305,0.40417227,De 10 de Agosto y Tarqui a 10 de Agosto y Patria,false
+81,68,2.5,admin,false,false,225.61843872070312,0.37004802,0.8261271,0.5807065,De 10 de Agosto y Patria a Entrada Ciclovía Parque Ejido,false
+81,82,-1.8,admin,false,false,855.5995483398438,0.51724094,0.89908034,0.44431022,De 10 de Agosto y Patria a 10 de Agosto y Colón,false
+81,80,1.8,admin,false,false,393.4557189941406,0.41668913,0.84556305,0.5641723,De 10 de Agosto y Patria a 10 de Agosto y Tarqui,false
+82,83,-1.8,admin,false,false,295.3740539550781,0.3226149,0.834205,0.3956537,De 10 de Agosto y Colón a 10 de Agosto y Eloy Alfaro,false
+82,63,3.5,admin,false,false,489.80426025390625,0.47849458,0.85672045,0.64809585,De 10 de Agosto y Colón a Amazonas y Colón,false
+82,81,1.8,admin,false,false,855.5995483398438,0.577241,0.89908034,0.6043103,De 10 de Agosto y Colón a 10 de Agosto y Patria,false
+83,85,1.8,admin,false,false,676.2650756835938,0.514939,0.878313,0.58873475,De 10 de Agosto y Eloy Alfaro a 10 de Agosto y Mariana de Jesús,false
+83,84,2.5,admin,false,false,236.14578247070312,0.3737053,0.8273462,0.58162075,De 10 de Agosto y Eloy Alfaro a Estación La Pradera,false
+83,82,1.8,admin,false,false,295.3740539550781,0.3826149,0.834205,0.55565375,De 10 de Agosto y Eloy Alfaro a 10 de Agosto y Colón,false
+84,83,-2.5,admin,false,false,236.14578247070312,0.29037195,0.8273462,0.35939854,De Estación La Pradera a 10 de Agosto y Eloy Alfaro,false
+84,56,2.5,admin,false,false,416.5311584472656,0.43637237,0.84823525,0.59728754,De Estación La Pradera a Amazonas y Eloy Alfaro,false
+85,86,-1.8,admin,false,false,385.8981628417969,0.35406357,0.8446879,0.40351588,De 10 de Agosto y Mariana de Jesús a Redondel del Martí,false
+85,116,3.5,admin,false,false,384.7012939453125,0.4419811,0.84454924,0.63896745,De 10 de Agosto y Mariana de Jesús a Amazonas y Mariana de Jesus,false
+85,83,-1.8,admin,false,false,676.2650756835938,0.45493898,0.878313,0.42873472,De 10 de Agosto y Mariana de Jesús a 10 de Agosto y Eloy Alfaro,false
+85,109,-1.8,admin,false,false,1270.4124755859375,0.6613497,0.94711655,0.4803374,De 10 de Agosto y Mariana de Jesús a Naciones Unidas y 10 de Agosto,false
+86,110,-2.5,admin,false,false,1120.5782470703125,0.59762967,0.92976546,0.43621296,De Redondel del Martí a Plaza de las Americas,false
+86,112,4.0,admin,false,false,327.9034729003906,0.43058252,0.8379719,0.65625674,De Redondel del Martí a America y Cuero y Caicedo,false
+86,87,1.8,admin,false,false,490.5757141113281,0.45042926,0.85680974,0.57260734,De Redondel del Martí a Entrada Desnivel Atahualpa,false
+86,85,1.8,admin,false,false,385.8981628417969,0.4140636,0.8446879,0.5635159,De Redondel del Martí a 10 de Agosto y Mariana de Jesús,false
+87,86,-1.8,admin,false,false,490.5757141113281,0.39042926,0.85680974,0.4126073,De Entrada Desnivel Atahualpa a Redondel del Martí,false
+87,88,1.8,admin,false,false,262.7356262207031,0.3712761,0.8304254,0.5528191,De Entrada Desnivel Atahualpa a Salida Desnivel Atahualpa,false
+88,87,-1.8,admin,false,false,262.7356262207031,0.3112761,0.8304254,0.39281902,De Salida Desnivel Atahualpa a Entrada Desnivel Atahualpa,false
+88,54,2.0,admin,false,false,206.48255920410156,0.35506675,0.82391113,0.55682224,De Salida Desnivel Atahualpa a Amazonas y Atahualpa,false
+89,90,-2.2,admin,false,false,175.90017700195312,0.27444223,0.8203696,0.36749944,De Galo Plaza y Murialdo a Galo Plaza y Luis Tufiño,false
+89,27,2.2,admin,false,false,415.9780578613281,0.4311802,0.8481712,0.5839061,De Galo Plaza y Murialdo a Galo plaza y Nicolas Urquiola,false
+90,94,-2.2,admin,false,false,279.70086669921875,0.31050327,0.83239,0.3765147,De Galo Plaza y Luis Tufiño a Galo Plaza y Maestro,false
+90,91,3.5,admin,false,false,566.5690307617188,0.5051632,0.86560994,0.654763,De Galo Plaza y Luis Tufiño a Real Audiencia y Luis Tufiño,false
+90,89,2.2,admin,false,false,175.90017700195312,0.34777555,0.8203696,0.563055,De Galo Plaza y Luis Tufiño a Galo Plaza y Murialdo,false
+91,90,-3.5,admin,false,false,566.5690307617188,0.38849652,0.86560994,0.3436519,De Real Audiencia y Luis Tufiño a Galo Plaza y Luis Tufiño,false
+91,92,3.5,admin,false,false,158.90695190429688,0.36353865,0.81840175,0.6193569,De Real Audiencia y Luis Tufiño a Luis Tufiño - Entrada Bicentenario,false
+92,91,-3.5,admin,false,false,158.90695190429688,0.246872,0.81840175,0.30824578,De Luis Tufiño - Entrada Bicentenario a Real Audiencia y Luis Tufiño,false
+92,93,3.5,admin,false,false,42.56028747558594,0.32311904,0.8049286,0.609252,De Luis Tufiño - Entrada Bicentenario a Salida Bicentenario - Luis Tufiño,false
+93,92,-3.5,admin,false,false,42.56028747558594,0.2064524,0.8049286,0.29814088,De Salida Bicentenario - Luis Tufiño a Luis Tufiño - Entrada Bicentenario,false
+93,32,0.5,admin,false,true,678.2836303710938,0.3939736,0.07854675,0.4811323,De Salida Bicentenario - Luis Tufiño a Ciclo Via Bicentenario Bomberos,false
+94,95,-2.2,admin,false,false,960.4915771484375,0.5470145,0.91122705,0.4356425,De Galo Plaza y Maestro a Galo Plaza y Eucaliptos,false
+94,90,2.2,admin,false,false,279.70086669921875,0.3838366,0.83239,0.57207024,De Galo Plaza y Maestro a Galo Plaza y Luis Tufiño,false
+95,96,-2.2,admin,false,false,506.5448913574219,0.3893104,0.858659,0.39621648,De Galo Plaza y Eucaliptos a Galo Plaza - Kenworth,false
+95,94,2.2,admin,false,false,960.4915771484375,0.6203478,0.91122705,0.63119805,De Galo Plaza y Eucaliptos a Galo Plaza y Maestro,false
+96,97,-2.2,admin,false,false,449.8240051269531,0.36960518,0.8520906,0.3912902,De Galo Plaza - Kenworth a Ma esa Galo Plaza,false
+96,95,2.2,admin,false,false,506.5448913574219,0.4626437,0.858659,0.591772,De Galo Plaza - Kenworth a Galo Plaza y Eucaliptos,false
+97,98,-2.2,admin,false,false,970.0743408203125,0.55034363,0.91233677,0.4364748,De Ma esa Galo Plaza a Galo Plaza - Intercambiador Panamericana Norte,false
+97,96,2.2,admin,false,false,449.8240051269531,0.4429385,0.8520906,0.5868457,De Ma esa Galo Plaza a Galo Plaza - Kenworth,false
+98,99,-2.8,admin,false,false,341.049072265625,0.32181606,0.8394942,0.3551762,De Galo Plaza - Intercambiador Panamericana Norte a N76 Panamericana Norte,false
+98,97,2.2,admin,false,false,970.0743408203125,0.62367696,0.91233677,0.6320303,De Galo Plaza - Intercambiador Panamericana Norte a Ma esa Galo Plaza,false
+99,100,-2.8,admin,false,false,289.6967468261719,0.3039759,0.83354753,0.35071617,De N76 Panamericana Norte a Panamericana Norte - Conjunto Verona,false
+99,98,2.8,admin,false,false,341.049072265625,0.4151494,0.8394942,0.6040651,De N76 Panamericana Norte a Galo Plaza - Intercambiador Panamericana Norte,false
+100,101,-2.8,admin,false,false,999.2474975585938,0.5504786,0.9157151,0.41234183,De Panamericana Norte - Conjunto Verona a Panamericana Norte - La Bota,false
+100,99,2.8,admin,false,false,289.6967468261719,0.39730924,0.83354753,0.5996051,De Panamericana Norte - Conjunto Verona a N76 Panamericana Norte,false
+101,102,-2.8,admin,false,false,252.4153594970703,0.2910241,0.82923025,0.34747824,De Panamericana Norte - La Bota a Redondel Panamericana Norte y Simon Bolivar,false
+101,100,2.8,admin,false,false,999.2474975585938,0.6438119,0.9157151,0.66123074,De Panamericana Norte - La Bota a Panamericana Norte - Conjunto Verona,false
+102,103,-2.8,admin,false,false,313.1450500488281,0.312122,0.8362629,0.35275272,De Redondel Panamericana Norte y Simon Bolivar a Panamericana Norte El Portal,false
+102,101,2.8,admin,false,false,252.4153594970703,0.38435745,0.82923025,0.5963671,De Redondel Panamericana Norte y Simon Bolivar a Panamericana Norte - La Bota,false
+103,102,2.8,admin,false,false,313.1450500488281,0.40545535,0.8362629,0.6016416,De Panamericana Norte El Portal a Redondel Panamericana Norte y Simon Bolivar,false
+104,115,-2.0,admin,false,false,185.10891723632812,0.28097475,0.82143605,0.37718815,De Portugal y Shyris a Shyrus y Suecia,false
+104,121,-2.8,admin,false,false,306.11181640625,0.3096786,0.83544844,0.35214186,De Portugal y Shyris a Portugal y 6 de Diciembre,false
+104,58,2.0,admin,false,false,700.6204223632812,0.5267335,0.8811334,0.59973896,De Portugal y Shyris a Eloy Alfaro y Shyris,false
+105,8,-2.5,admin,false,false,675.4970703125,0.4430055,0.8782241,0.39755693,De Eloy Alfaro y Gaspar a Eloy Alfaro y Granados,false
+105,4,-2.8,admin,false,false,486.1305847167969,0.37221834,0.856295,0.36777678,De Eloy Alfaro y Gaspar a 6 de diciembre y Gaspar,false
+105,106,8.0,admin,false,false,120.48636627197266,0.4251911,0.81395257,0.81601995,De Eloy Alfaro y Gaspar a F.Urrutia y Guanguiltagua,false
+105,61,2.5,admin,false,false,690.5667724609375,0.53157413,0.8799692,0.62108797,De Eloy Alfaro y Gaspar a Eloy Alfaro - Parque Costa Rica,false
+106,105,-8.0,admin,false,false,120.48636627197266,0.15852444,0.81395257,0.10490888,De F.Urrutia y Guanguiltagua a Eloy Alfaro y Gaspar,false
+106,119,-8.0,admin,false,false,340.78985595703125,0.23505934,0.83946425,0.12404261,De F.Urrutia y Guanguiltagua a Parque de Colores,false
+107,108,9.0,admin,false,false,174.43284606933594,0.46059912,0.8201997,0.8651498,De Guanguiltagua y Diego Novoa a entrada metropolitano,false
+107,119,-9.0,admin,false,false,261.6986389160156,0.19091585,0.8303053,0.07272896,De Guanguiltagua y Diego Novoa a Parque de Colores,false
+108,107,-9.0,admin,false,false,174.43284606933594,0.16059913,0.8201997,0.065149784,De entrada metropolitano a Guanguiltagua y Diego Novoa,false
+109,1,3.5,admin,false,false,250.76416015625,0.39545047,0.82903904,0.62733483,De Naciones Unidas y 10 de Agosto a Amazonas y naciones unidas,false
+109,110,3.5,admin,false,false,453.45404052734375,0.46586627,0.852511,0.64493877,De Naciones Unidas y 10 de Agosto a Plaza de las Americas,false
+109,85,1.8,admin,false,false,1270.4124755859375,0.7213498,0.94711655,0.64033747,De Naciones Unidas y 10 de Agosto a 10 de Agosto y Mariana de Jesús,false
+110,109,-3.5,admin,false,false,453.45404052734375,0.34919962,0.852511,0.33382767,De Plaza de las Americas a Naciones Unidas y 10 de Agosto,false
+110,86,2.5,admin,false,false,1120.5782470703125,0.680963,0.92976546,0.6584352,De Plaza de las Americas a Redondel del Martí,false
+110,55,3.2,admin,false,false,1247.742431640625,0.73680735,0.9444913,0.7005907,De Plaza de las Americas a Amazonas y República,false
+112,86,-4.0,admin,false,false,327.9034729003906,0.2972492,0.8379719,0.3007012,De America y Cuero y Caicedo a Redondel del Martí,false
+115,2,-2.0,admin,false,false,245.27383422851562,0.30187643,0.82840323,0.38241357,De Shyrus y Suecia a Shyris y Naciones unidas,false
+115,104,2.0,admin,false,false,185.10891723632812,0.3476414,0.82143605,0.5549659,De Shyrus y Suecia a Portugal y Shyris,false
+116,85,-3.5,admin,false,false,384.7012939453125,0.32531446,0.84454924,0.3278564,De Amazonas y Mariana de Jesus a 10 de Agosto y Mariana de Jesús,false
+116,55,1.5,admin,false,true,271.8941650390625,0.26945785,0.03148595,0.4902811,De Amazonas y Mariana de Jesus a Amazonas y República,false
+116,56,-1.5,admin,false,true,193.78663635253906,0.19232276,0.022440922,0.35016403,De Amazonas y Mariana de Jesus a Amazonas y Eloy Alfaro,false
+117,47,-2.8,admin,false,false,440.37884521484375,0.35632387,0.85099685,0.36380318,De Shyrys y Gaspar de Villaroel a Gaspar Villarroel y Amazonas,false
+117,4,2.8,admin,false,false,347.7430419921875,0.4174749,0.8402694,0.6046465,De Shyrys y Gaspar de Villaroel a 6 de diciembre y Gaspar,false
+117,20,-2.0,admin,false,false,696.587646484375,0.45866585,0.8806664,0.42161092,De Shyrys y Gaspar de Villaroel a Rio Coca y Shyris,false
+117,2,2.0,admin,false,false,632.8648681640625,0.5031948,0.87328714,0.59385425,De Shyrys y Gaspar de Villaroel a Shyris y Naciones unidas,false
+118,78,-3.0,admin,false,false,21.382638931274414,0.20742847,0.80247617,0.3185238,De Sanduches de Pernil a Venezuela y Chile,false
+119,61,-8.0,admin,false,false,306.5406799316406,0.22316094,0.8354981,0.121068016,De Parque de Colores a Eloy Alfaro - Parque Costa Rica,false
+119,106,8.0,admin,false,false,340.78985595703125,0.501726,0.83946425,0.8351537,De Parque de Colores a F.Urrutia y Guanguiltagua,false
+119,107,9.0,admin,false,false,261.6986389160156,0.49091583,0.8303053,0.87272894,De Parque de Colores a Guanguiltagua y Diego Novoa,false
+120,60,-2.8,admin,false,false,176.16961669921875,0.2645358,0.82040083,0.34085616,De Portugal y Eloy Alfaro a Roca roja Eloy Alfaro,false
+120,61,2.8,admin,false,false,249.1049346923828,0.38320738,0.82884693,0.5960796,De Portugal y Eloy Alfaro a Eloy Alfaro - Parque Costa Rica,false
+120,121,-2.8,admin,false,false,287.3830261230469,0.3031721,0.8332796,0.35051525,De Portugal y Eloy Alfaro a Portugal y 6 de Diciembre,false
+121,120,2.8,admin,false,false,287.3830261230469,0.39650545,0.8332796,0.59940416,De Portugal y 6 de Diciembre a Portugal y Eloy Alfaro,false
+121,104,2.8,admin,false,false,306.11181640625,0.40301195,0.83544844,0.60103077,De Portugal y 6 de Diciembre a Portugal y Shyris,false
+121,3,-1.8,admin,false,false,436.5143127441406,0.37164798,0.85054934,0.407912,De Portugal y 6 de Diciembre a Naciones unidas y 6 de diciembre,false
